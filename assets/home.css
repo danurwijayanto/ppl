@@ -1,0 +1,124 @@
+body{
+	margin:0px auto 0px;
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#333;
+	background-color:#FFF;
+}
+
+a{
+	color:#18b850;
+}
+
+h1{	
+	color:#18b850;
+}
+
+h2{
+	color:#18b850;
+}
+
+h3{
+	color:#18b850;
+}
+
+h4{
+	color:#18b850;
+}
+
+#nav{
+	background-color: #18b850;
+}
+
+.wptoko-title a:hover{
+	color:#18b850;
+}
+
+#wrapper dt {
+	background-color:#18b850;
+}
+
+#footer{
+	background-color:#18b850;
+}
+
+.wptoko-harga{
+	color:#18b850; 
+}
+
+.blue.beli, .blue.beli:visited{ 
+	background-color: #18b850; 
+}
+
+.wptoko-harga-single{
+	color:#18b850; 
+}
+
+#sidebar a{
+	color:#18b850;
+}
+
+#sidebarleft h5, .box h5{
+	background-color:#18b850;
+}
+
+.catmenu a:hover {
+	background-color:#18b850;
+}
+
+.wp-pagenavi a:hover{
+	color:#FFFFFF;background-color:#18b850;
+}
+
+.current{
+	color:#FFFFFF;background-color:#18b850;
+}
+
+.featured-title{
+	color: #18b850;
+}
+
+dropdown li * a:hover{
+	background-color:#18b850;
+}
+
+#status li.active {
+	background-color:#18b850;
+}
+
+#wizard {
+	border:5px solid #666;
+}
+
+#wizard .next {
+	background-color:#18b850;
+}
+
+a.activator{
+	background-color:#18b850;
+}
+
+#wizard .buttonku{
+	background-color:#18b850;
+}
+
+.TabMenu li a{
+	background-color: #18b850;
+}
+
+.cart-title{
+	background-color: #18b850;
+}
+
+.telp-title{
+	font-size:18px;
+	color:#18b850;
+	text-decoration:blink;
+}
+
+
+#wpadminbar { 
+	display:none; 
+}
+
